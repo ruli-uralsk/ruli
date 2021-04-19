@@ -1306,8 +1306,7 @@ html {
 }
 
 .slick__line {
-	margin-left: 55px;
-	width: 358px;
+	display: none;
 }
 }
 
