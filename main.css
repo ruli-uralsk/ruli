@@ -1287,6 +1287,7 @@ html {
 }
 
 .footer-img__instagram {
+	width: 45px;
 	margin-left: 315px;
 	margin-bottom: -58px;
 }
