@@ -1316,6 +1316,10 @@ html {
 	margin-left: 279px;
 	margin-top: 29px;  
 }
+	
+.slick__line {
+	display: none;
+}
 
 .slick-slider {
 	max-width: 343px;
